@@ -1,0 +1,18 @@
+### Standart template
+# IntelliJ project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Compiled output
+out/
+target/
+bin/
+gen/
+*.class
+
+# Logs and temp files
+*.log
+*.tmp
+*~
